@@ -1,0 +1,8 @@
+com\user\User\Controller\UserController.class
+com\user\User\Repository\UserRepository.class
+com\user\User\Model\User.class
+com\user\User\Service\UserService.class
+com\user\User\UserApplication.class
+com\user\User\Cache\Cache.class
+com\user\User\Cache\CacheImplementation.class
+com\user\User\Service\UserServiceImplementation.class
