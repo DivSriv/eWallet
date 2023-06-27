@@ -1,4 +1,4 @@
-# E- Wallet ( Java Backend Development )
+# E- Wallet
 
 * Developed a Scalable & Robust Web App (Microservices) for an e-wallet (like Paytm) App
 * It has all the standard functionalities that any e-wallet can have
